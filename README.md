@@ -7,14 +7,15 @@
 
 ### 🚀 Portada
 
-Nombre del curso: Gestión de Datos
-Grupo: Individual
-Título del trabajo: Diseño e Implementación de una Solución de Datos Empresarial a la minorista Corinser SAC
+- Nombre del curso: Gestión de Datos
 
-Integrantes:
-- Fernando Giraldo
+- Grupo: Individual
 
-Docente: Carlos Adrian Alarcon
+- Título del trabajo: Diseño e Implementación de una Solución de Datos Empresarial a la minorista Corinser SAC
+
+- Integrantes: Fernando Giraldo
+
+- Docente: Carlos Adrian Alarcon
 
 ### 🚀 Resumen ejecutivo
 Corinser SAC una empresa peruana del sector comercial enfrenta desafios para consolidar, analizar y aprovechar su informacion operativa. 
