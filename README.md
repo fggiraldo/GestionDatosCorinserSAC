@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fggiraldo/GestionDatosCorinserSAC.git/main/assets/logo.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/fggiraldo/GestionDatosCorinserSAC.git/main/assets/logo.png" width="180"/>
 </p>
 
 
