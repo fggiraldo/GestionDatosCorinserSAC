@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/fggiraldo/GestionDatosCorinserSAC.git/main/assets/logo.png" width="180"/>
+</p>
+
+
 # Trabajo Final: Gestión de los Datos
 
 ## Contenido
