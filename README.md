@@ -36,10 +36,14 @@ La propuesta busca no solo gestionar eficientemente los datos de Corinser SAC, s
 Encontrar oportunidades de Ventas por Horario para mejorar la conversión y Segmentacion de los clientes de alto valor
 
 ### 🚀 Estructura del proyecto
+
 ```
+├── dataraw/              # archivos de datos sin procesar (CSV, Excel, JSON, etc.)
 ├── analisis/             # consultas y visualizaciones
 ├── assets/               # archivos varios y recursos
+  ├── dataraw/            # datos como recurso general del proyecto
 ├── etl/                  # scripts de transformación y carga
+  ├── dataraw/            # fuente inicial de datos para transformación
 ├── r/                    # scripts de EDA y visualización en R
 ├── sql/                  # scripts de creación y carga
 ├── .github/              # configuración de gitHub
