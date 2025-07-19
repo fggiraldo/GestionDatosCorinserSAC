@@ -57,7 +57,7 @@ Encontrar oportunidades de Ventas por Horario para mejorar la conversión y Segm
 </p>
 
 ### 🚀 Implementación de la base de datos (scripts y explicación)
-
+```
 Dimensiones
 ├── 💣dim_fecha
 ├── 💣dim_canal
@@ -70,5 +70,6 @@ Dimensiones
 Fact Tables
 ├── 🪄fact_inventario
 ├── 🪄fact_ventas
+```
 
 ### 🚀 Procesos ETL (descripción y código)
