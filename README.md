@@ -48,9 +48,10 @@ Encontrar oportunidades de Ventas por Horario para mejorar la conversión y Segm
 ├── sql/                  # scripts de creación y carga
 ├── .github/              # configuración de gitHub
 └── README.md             # información sobre el proyecto
-```Este archivo
+```
 
 ### 🚀 Modelado de datos (ER, normalización, modelo dimensional)
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/fggiraldo/GestionDatosCorinserSAC/main/assets/modelo_estrella.jpg"/>
 </p>
