@@ -51,7 +51,23 @@ Encontrar oportunidades de Ventas por Horario para mejorar la conversión y Segm
 ```Este archivo
 
 ### 🚀 Modelado de datos (ER, normalización, modelo dimensional)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/fggiraldo/GestionDatosCorinserSAC/main/assets/modelo_estrella.jpg"/>
+</p>
 
 ### 🚀 Implementación de la base de datos (scripts y explicación)
+
+Dimensiones
+├── 💣dim_fecha
+├── 💣dim_canal
+├── 💣dim_tienda
+├── 💣dim_gerente
+├── 💣dim_producto
+├── 💣dim_moneda
+├── 💣dim_promocion
+
+Fact Tables
+├── 🪄fact_inventario
+├── 🪄fact_ventas
 
 ### 🚀 Procesos ETL (descripción y código)
